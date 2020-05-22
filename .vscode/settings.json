@@ -1,0 +1,15 @@
+{
+    "python.autoComplete.extraPaths": [
+
+    "C:/Users/dell/Anaconda3"
+    ],
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.pythonPath": "C:\\Users\\dell\\Anaconda3\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}
